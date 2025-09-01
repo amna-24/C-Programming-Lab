@@ -10,6 +10,3 @@ Use `git status` to list all new or modified files that haven&#39;t yet been com
 * There were Rivers in the Sky
  + The Kite Runner
  Three cups of Eve
-First list item
- - First nested list item
-   - Second nested list item

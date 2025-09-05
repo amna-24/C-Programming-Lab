@@ -1,10 +1,10 @@
-# My favorite books
+# My favorite programming langauges
 
  
 
 
  
-- A Thousand Splendid Suns
-- There were Rivers in the sky
-- The Kite runner
-- Three Cups of Eve
+- Python
+- Java
+- C++
+- Java Script
